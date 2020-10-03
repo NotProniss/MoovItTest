@@ -1,0 +1,14 @@
+{
+  "contracts": {},
+  "solidityLibs": {},
+  "proxies": {
+    "MoovItTest/MoovItTest": [
+      {
+        "address": "0x016507B148eD31016dee76a777EFe6B6bEdBAdCA",
+        "kind": "NonProxy",
+        "bytecodeHash": "ce995493ce5ee8ab4d4a98a612bba71ee7005f01500b0ea30c320d0d08140a92"
+      }
+    ]
+  },
+  "manifestVersion": "2.2"
+}
